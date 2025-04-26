@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shantal98
-- 👀 I’m interested in pursuin a career in data science.
+- 👀 I’m interested in pursuing a career in actuarial science.
 - 🌱 I’m currently learning python, machine learning.
 - 💞️ I’m looking to collaborate on various capstone projects
 - 📫 How to reach me ...
